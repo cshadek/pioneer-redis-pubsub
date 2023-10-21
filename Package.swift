@@ -17,7 +17,7 @@ let package = Package(
     dependencies: [
         // Dependencies declare other packages that this package depends on.
         // .package(url: /* package url */, from: "1.0.0"),
-        .package(url: "https://github.com/d-exclaimation/pioneer", from: "1.0.0"),
+        .package(url: "https://github.com/cshadek/pioneer", from: "1.0.0"),
         .package(url: "https://gitlab.com/mordil/RediStack.git", from: "2.0.0-gamma.1"),
     ],
     targets: [
